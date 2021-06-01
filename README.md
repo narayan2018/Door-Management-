@@ -5,6 +5,7 @@
 
 
 1-Download the folder “DoorManagement”
+
 2-Execute the SQL in SQL server 
      
 	 CREATE DATABASE [EverBridgeDB]
