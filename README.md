@@ -1,6 +1,9 @@
 # Door-Management-
-Door management at facility
-Steps to run the application
+
+
+**Steps to run the application**
+
+
 1-	Download the folder “DoorManagement”
 2-	Execute the SQL in SQL server 
       CREATE DATABASE [EverBridgeDB]
